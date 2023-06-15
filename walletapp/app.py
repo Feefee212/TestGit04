@@ -1,2 +1,2 @@
 def hello():
-    print('d Astra Abyssosque!!)
+    print('Ad Astra Abyssosque!!')
